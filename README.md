@@ -12,9 +12,7 @@ como um dicionário em sua pasta de trabalho, exemplo:
 "ACCESS_TOKEN_SECRET":"12345",
 "BEARER_TOKEN":"12345"}
 
-Essas chaves podem ser obtidas por meio da plataforma do desenvolvedor no site developer.twitter.com
-=======
-Pasta com teste para carregamento de dados do twitter via API utilizando a biblioteca tweepy.
+
+<p> Pasta com teste para carregamento de dados do twitter via API utilizando a biblioteca tweepy.</p>
 <p> author: @pythonistabr</p>
 <p>contact: gustavo.oceanografia@gmail.com</p>
->>>>>>> 4c8289fa239a8702a40116197cc204553d64e2ae
