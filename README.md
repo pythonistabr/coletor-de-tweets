@@ -1,6 +1,6 @@
 ### coletor-de-tweets
 
-<<<<<<< HEAD
+HEAD
 Teste de carregamento de dados do twitter via API utilizando a biblioteca pytweet.
 
 Para utilizar o notebook, insira e salve as suas chaves de acceso em um arquivo de texto formatado
