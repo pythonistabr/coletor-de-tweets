@@ -1,6 +1,4 @@
 ### coletor-de-tweets
-
-<<<<<<< HEAD
 Teste de carregamento de dados do twitter via API utilizando a biblioteca pytweet.
 
 Para utilizar o notebook, insira e salve as suas chaves de acceso em um arquivo de texto formatado
@@ -13,8 +11,7 @@ como um dicionário em sua pasta de trabalho, exemplo:
 "BEARER_TOKEN":"12345"}
 
 Essas chaves podem ser obtidas por meio da plataforma do desenvolvedor no site developer.twitter.com
-=======
+
 Pasta com teste para carregamento de dados do twitter via API utilizando a biblioteca tweepy.
 <p> author: @pythonistabr</p>
 <p>contact: gustavo.oceanografia@gmail.com</p>
->>>>>>> 4c8289fa239a8702a40116197cc204553d64e2ae
